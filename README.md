@@ -1,107 +1,138 @@
 <div align="center">
 
-# Harsh Dholakiya
-
-### Developer · Computer Science & Engineering (AI) Student
-
-<p>
-  <a href="https://harshdholakiya-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshdholakiya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshdholakiya2111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm **Harsh Dholakiya**, a Computer Science & Engineering student at **Parul University** who enjoys building software, experimenting with new technologies, and turning ideas into practical projects.
-
-I like working across different areas of development rather than limiting myself to a single technology or domain. My projects range from web applications and productivity tools to automation, security-focused utilities, and interactive experiences.
-
-* 🎓 B.Tech — Computer Science & Engineering (AI)
-* 💻 Interested in software development and technology
-* 🛠️ Enjoy building and experimenting with projects
-* 🧠 Continuously improving my programming & CS fundamentals
-* 🌱 Currently exploring new technologies and better ways to build software
-* 🤝 Open to collaboration, internships and interesting projects
-
-> **Learn something new. Build something useful. Keep improving.**
-
----
-
-## 🧰 Technologies I Work With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,nodejs,express,mongodb,mysql,git,github,vite,vercel,vscode" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Harsh%20Dholakiya&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Developer%20%7C%20CSE%20(AI)%20Student&descAlignY=58&descSize=20"/>
 
 <br>
 
-**Languages:** Python · Java · JavaScript · HTML · CSS · SQL
+<a href="https://harshdholakiya-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/harshdholakiya">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:harshdholakiya2111@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Development:** React · Node.js · Express · Tailwind CSS
+<br><br>
 
-**Database:** MongoDB · MySQL
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=20BEFF&center=true&vCenter=true&width=650&lines=Building+%7C+Learning+%7C+Experimenting;Turning+Ideas+Into+Projects;Exploring+Technology+Every+Day"/>
 
-**Tools:** Git · GitHub · Vite · Vercel · Postman · VS Code
-
-**Other:** REST APIs · Web APIs · Automation · Problem Solving
+</div>
 
 ---
 
-## 🚀 Things I've Built
+# 👋 About Me
 
-### 🌐 Personal Portfolio
+> **"Learn something new. Build something useful. Keep improving."**
 
-My personal developer portfolio showcasing my projects, skills, technologies, and development journey through a modern and responsive interface.
+I'm **Harsh Dholakiya**, a Computer Science & Engineering (AI) student at **Parul University** with a passion for technology and software development.
 
-**Built with:** React · JavaScript · Tailwind CSS · Vite
+I enjoy exploring different areas of development, experimenting with new technologies, and turning ideas into practical projects. I believe the best way to learn is to **build, break, improve, and build again.**
 
-🔗 **Live:** https://harshdholakiya-portfolio.vercel.app/
+### 🎓 Education
 
-🔗 **Repository:** https://github.com/harshdholakiya21/Portfolio
+**B.Tech — Computer Science & Engineering (Artificial Intelligence)**
+Parul University
+
+### 💡 A little about me
+
+* 💻 I enjoy **building software and experimenting with ideas**
+* 🧠 I'm continuously improving my **programming & CS fundamentals**
+* 🛠️ I like working with different technologies rather than limiting myself to one stack
+* 🚀 I enjoy taking projects from **idea → development → deployment**
+* 🌱 Currently learning and exploring new technologies
+* 🤝 Open to **collaboration, internships and interesting projects**
+
+---
+
+# 🛠️ Technology
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+
+<br><br>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vite,vercel,postman,vscode" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🌐 Portfolio Website
+
+**My personal developer portfolio**
+
+A modern and responsive website where I showcase my projects, skills, technologies and development journey.
+
+**React · JavaScript · Tailwind CSS · Vite**
+
+<br>
+
+<a href="https://harshdholakiya-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Website-Visit%20Portfolio-20BEFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harshdholakiya21/Portfolio">
+<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ### 🏦 HD Bank
 
-A modern online banking application focused on account management, transactions and an interactive banking experience.
+A modern banking application designed around account management, transactions and an interactive banking experience.
 
-**Built with:** React · Node.js · Express · MongoDB · Tailwind CSS
+**Technologies**
+
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
 ---
 
 ### 🏘️ Urban Nest
 
-A platform designed to simplify residential society management, including visitors, maintenance, notices and community activities.
+A platform created to simplify residential society management with features for visitors, maintenance, notices and community activities.
 
-**Built with:** React · Node.js · Express · MongoDB · Tailwind CSS
+**Technologies**
+
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
 ---
 
 ### 🤖 YouTube Video Automation
 
-An automated workflow that turns a topic into a complete video using scripting, voice generation, subtitles, video processing and publishing tools.
+An automated workflow that transforms a topic into a complete video through scripting, voice generation, subtitles, video processing and publishing.
 
-**Built with:** Python · APIs · MoviePy · TTS · YouTube API
+**Technologies**
+
+`Python` `APIs` `MoviePy` `TTS` `YouTube API`
 
 ---
 
 ### 🔐 KeyVault
 
-A browser-based security utility for generating and managing strong passwords with client-side cryptographic functionality.
+A browser-based security utility focused on password generation and client-side cryptographic functionality.
 
-**Built with:** React · Web Crypto API · Tailwind CSS
+**Technologies**
+
+`React` `Web Crypto API` `Tailwind CSS`
 
 ---
 
@@ -109,43 +140,43 @@ A browser-based security utility for generating and managing strong passwords wi
 
 An interactive music-player experience with playback controls, playlists, waveform interaction and responsive design.
 
-**Built with:** React · Web Audio API · CSS
+**Technologies**
 
-
----
-
-## 🧠 What I Enjoy
-
-```text
-Building Projects        ████████████████████
-Learning New Technology  ███████████████████
-Problem Solving          ██████████████████
-Experimenting            █████████████████
-Improving & Refactoring  █████████████████
-```
-
-I enjoy taking an idea from **concept → development → testing → deployment**, while learning something new along the way.
+`React` `Web Audio API` `CSS`
 
 ---
 
-## 📚 Currently Learning
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Systems
-* Software Development Practices
-* Modern Web Technologies
-* Better architecture and code organization
-
----
-
-## 📊 GitHub
+# 🧩 How I Like to Work
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshdholakiya21&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+|    💡 Explore   |         🛠️ Build        |       🧪 Experiment      |     🚀 Improve     |
+| :-------------: | :----------------------: | :----------------------: | :----------------: |
+| Learn new ideas | Turn ideas into projects | Try different approaches | Refactor & improve |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdholakiya21&layout=compact&hide_border=true&theme=transparent" />
+</div>
+
+I enjoy learning through **hands-on development** and building projects that help me understand how things work in the real world.
+
+---
+
+# 📚 Currently Exploring
+
+<div align="center">
+
+`Data Structures & Algorithms` · `OOP` · `Databases` · `Software Development` · `Modern Web Technologies`
+
+</div>
+
+---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshdholakiya21&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdholakiya21&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -153,36 +184,62 @@ I enjoy taking an idea from **concept → development → testing → deployment
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harshdholakiya21&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=harshdholakiya21&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-## 🌐 Find Me
+# 🌱 My Current Focus
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   🧠 Strengthening Computer Science Fundamentals     │
+│                                                      │
+│   💻 Building & Improving Projects                   │
+│                                                      │
+│   📚 Learning New Technologies                       │
+│                                                      │
+│   🧩 Improving Problem Solving                       │
+│                                                      │
+│   🤝 Exploring Collaboration & Opportunities         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://harshdholakiya-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=for-the-badge" />
+If you're interested in **technology, projects, collaboration or simply exchanging ideas**, feel free to connect.
+
+<br>
+
+<a href="https://harshdholakiya-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-20BEFF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/harshdholakiya21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshdholakiya">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:harshdholakiya2111@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
+⭐ **Thanks for visiting my profile!**
 
-<div align="center">
+<br>
 
-### Thanks for stopping by 👋
-
-*Always learning. Always building.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
 
 </div>
